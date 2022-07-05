@@ -6,7 +6,6 @@ Experienced Software Test Engineer with 10+ years of experience in performing ma
 Backend: NodeJS, Ruby
 Databases: Mongodb, Mysql, Elastic search
 Frontend: Reactjs, Embe, Vue
-Some facts:
 
 🔭 I’m currently working [Sr.Software Test Engineer II [At] Tetra Tech
 I’m looking to collaborate on open source projects that makes automation a little easy.
@@ -14,7 +13,7 @@ I’m looking to collaborate on open source projects that makes automation a lit
 😄 Pronouns: sura fel 
 You can also find me on
 
-linkedin :https://www.linkedin.com/in/surafal/
-twitter  :https://twitter.com/Perspectives_M
-website  :https://surafal.com/
-blog post:[https://www.perspectivesmatters.com/]
+Linkedin:https://www.linkedin.com/in/surafal/
+Twitter:https://twitter.com/Perspectives_M
+Website:https://surafal.com/
+Blog post:[https://www.perspectivesmatters.com/]
