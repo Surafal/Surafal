@@ -1,4 +1,4 @@
-Hi There 👋, I am Surafal Negere
+Hi 👋, I am Surafal Negere
 
 Sr.Software Test Engineer II
 Experienced Software Test Engineer with 10+ years of experience in performing manual, automated and performance software testing throughout the Software Development and Testing Life Cycles in a fast-paced startup environment with both local and remote teams!
