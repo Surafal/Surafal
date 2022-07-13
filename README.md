@@ -1,17 +1,16 @@
-Hi 👋, I am Surafal Negere
+<h2 dir="auto"><a id="user-content--hi-there-" class="anchor" aria-hidden="true" href="#-hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi there :)</h2>
 😄 Pronouns: sura fel 
 
-Sr.Software Test Engineer II
-Experienced Software Test Engineer with 10+ years of experience in performing manual, automated and performance software testing throughout Software Development and Testing Life Cycles in a fast-paced startup environment with both local and remote teams!
+Hello, my name is Surafal. I am a Sr.Software Test Engineer II with 10+ years of experience in performing manual, automated and performance software testing throughout Software Development and Testing Life Cycles in a fast-paced startup environment with both local and remote teams!
 
 🔭 I’m currently working [Sr.Software Test Engineer II @Tetra Tech
 I’m looking to collaborate on open source projects that makes automation a little easy.
-📫 How to reach me: todaysperspectivesmatters@gmail.com
 
 You can also find me on
 Linkedin:https://www.linkedin.com/in/surafal/
 Twitter:https://twitter.com/Perspectives_M
 Website:https://surafal.com/
+📫 How to reach me: todaysperspectivesmatters@gmail.com
 Blog post:[https://www.perspectivesmatters.com/]
 
 
@@ -43,7 +42,7 @@ Blog post:[https://www.perspectivesmatters.com/]
 
 <p dir="auto">Check out <a href="https://githubtrends.io" rel="nofollow">https://githubtrends.io</a> for more information!</p>
 
-<p dir="auto"><a href="https://githubtrends.io" rel="nofollow"><img src="https://camo.githubusercontent.com/d145b329639aac6f66c39cc0dabadfa42c6caaf19242f400806ee376b713c402/68747470733a2f2f6170692e6769746875627472656e64732e696f2f757365722f7376672f617667757074613435362f7265706f733f74696d655f72616e67653d6f6e655f7965617226696e636c7564655f707269766174653d54727565266c6f635f6d65747269633d6368616e676564" alt="GitHub Trends SVG" data-canonical-src="https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&amp;include_private=True&amp;loc_metric=changed" style="max-width: 100%;"></a></p>
+
 
 
 
