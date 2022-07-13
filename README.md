@@ -3,7 +3,7 @@
 
 Hello, my name is Surafal. I am a Sr.Software Test Engineer II with 10+ years of experience in performing manual, automated and performance software testing throughout Software Development and Testing Life Cycles in a fast-paced startup environment with both local and remote teams!
 
-🔭 I’m currently working [Sr.Software Test Engineer II @Tetra Tech
+🔭 I’m currently working Sr.Software Test Engineer II @Tetra Tech
 I’m looking to collaborate on open source projects that makes automation a little easy.
 
 You can also find me on
